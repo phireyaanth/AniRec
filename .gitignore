@@ -1,0 +1,5 @@
+.csv
+.npy
+.pkl
+cosine_sim.npy
+tfidf_matrix.pkl
